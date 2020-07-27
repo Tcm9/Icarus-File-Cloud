@@ -1,30 +1,30 @@
 [
 {
-    "date": "21th of July 2020",
-    "added": ["Added in noslowdown Air & ground speed / fixed sprint bug"],
-    "removed": ["nothing"],
+    "date": "27th of July 2020",
+    "added": ["Source von Hacks"],
+    "removed": ["All"],
     "changed": [
-	  "Improved scaffold",
-	  "Fixed chestaura trying to open chests in combat",
-	  "Changed cubecraft insane fly",
-	  "Improved hypixel speed",
-	  "Added fast hive-lowhop",
-	  "Improved hypixel scaffold",
-	  "Fixed step trying to step at half slabs",
+	  "This Client was Hacked",
+	  "This Client was Hacked",
+	  "This Client was Hacked",
+	   "This Client was Hacked",
+	  "This Client was Hacked",
+	  "This Client was Hacked",
+	  "This Client was Hacked",
 	  "Added cubecraft damage fly",
-	  "Fixed cubecraft kys fly",
-	  "Improved cubecraft speed",
-	  "Improved general cubecraft shit",
-	  "Fixed retarded gommehd movement flags after anticheat update",
-	  "Fixed scaffold front-offset rotations",
-	  "Recoded scaffold",
-	  "Made some killaura changes",
-	  "Fixed inventory-tweaks",
-	  "Fixed autoarmor randomly getting aids",
-	  "Fixed minecraft bug, world loads now instantly",
-	  "Fixed minecraft bug, decreased cpu usage on world load (by about 20%)",
-	  "Fixed minecraft bug, that caused a delay bug in block-placement",
-	  "Vypassed intave autoblock aswell for aac"
+	  "This Client was Hacked",
+	 "This Client was Hacked",
+	   "This Client was Hacked",
+	  "This Client was Hacked",
+	   "This Client was Hacked",
+	   "This Client was Hacked",
+	   "This Client was Hacked",
+	   "This Client was Hacked",
+	  "This Client was Hacked",
+	   "This Client was Hacked",
+	  "This Client was Hacked",
+	  "This Client was Hacked",
+	   "This Client was Hacked"
 	]
   },
 {
@@ -36,6 +36,7 @@
 	]
   },
 {
+
     "date": "9th of July 2020",
     "added": ["Prediction modes (Minecraft, Custom)", "Sensitivity fix toggleable", "Pingspoof-Packet loss", "intave scaffold (patched?)", "Custom chestesp (Customizeable color, alpha etc)"],
     "removed": ["nothing"],
